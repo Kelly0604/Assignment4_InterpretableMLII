@@ -7,7 +7,7 @@
 2. FIGS Classifier
 3. Tree GAM Classifier
 
-`All sourced and chosen from [![Open Sourced imodel GitHub Repository](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/csinva/imodels?tab=readme-ov-file)`
+All sourced and chosen from: [![Open Sourced imodel GitHub Repository](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/csinva/imodels?tab=readme-ov-file)
 
 
 ### Important Files Include: 
