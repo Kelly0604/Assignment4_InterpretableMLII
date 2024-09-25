@@ -7,8 +7,7 @@
 2. FIGS Classifier
 3. Tree GAM Classifier
 
-All sourced and chosen from: [![Open Sourced imodel GitHub Repository](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/csinva/imodels?tab=readme-ov-file)
-
+All sourced and chosen from: [![Open Sourced imodels GitHub Repository](https://img.shields.io/badge/GitHub-Open%20in%20GitHub-blue)](https://github.com/csinva/imodels?tab=readme-ov-file)
 
 ### Important Files Include: 
 - `Assignment4_InterpretableML_II.ipynb`: Jupyter Notebook in Google Colab which contains all the code and processes for fitting and building the model of choice.
